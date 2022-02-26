@@ -1,1 +1,1 @@
-These are sorts in data structures
+These are some sorts in data structures
